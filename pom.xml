@@ -11,7 +11,6 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>desctopapp_publishing_6</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>desctopapp_publishing_6</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
